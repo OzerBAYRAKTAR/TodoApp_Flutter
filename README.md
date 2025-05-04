@@ -1,6 +1,6 @@
 # todo_app_flutter
 
-A new Flutter project.
+A Flutter App, with using Hive database.
 
 ## Getting Started
 
